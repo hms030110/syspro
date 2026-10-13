@@ -1,0 +1,2 @@
+Original file2 content. 
+Hello from file1
